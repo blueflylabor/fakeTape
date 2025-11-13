@@ -1,0 +1,4 @@
+/Users/jeffwhynot/activity/CLionProjects/fakeTape/build/CMakeFiles/tape_simulator.dir
+/Users/jeffwhynot/activity/CLionProjects/fakeTape/build/CMakeFiles/test.dir
+/Users/jeffwhynot/activity/CLionProjects/fakeTape/build/CMakeFiles/edit_cache.dir
+/Users/jeffwhynot/activity/CLionProjects/fakeTape/build/CMakeFiles/rebuild_cache.dir
