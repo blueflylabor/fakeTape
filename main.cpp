@@ -638,7 +638,7 @@ int main(int argc, char**argv) {
 // 基准测试入口（供CTest调用）
 int run_benchmarks() {
     try {
-        const size_t BLOCK_COUNT = 10000;
+        const size_t BLOCK_COUNT = 100000;
         const size_t QUERY_COUNT = 1000;
         const size_t BLOCK_SIZE = 4096;
         
